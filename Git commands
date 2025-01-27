@@ -1,0 +1,12 @@
+Basic Commands
+
+git init
+git clone <url>
+git add <file>
+git commit -m "message"
+git push
+git pull
+git fetch
+git merge <branch>
+
+
